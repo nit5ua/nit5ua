@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nit5ua
-- 👀 I’m interested in python, machiune learning and AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on machine learnng and artificial intelligence
+- 👀 I’m interested in Python, machine learning, and AI
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on machine learning and artificial intelligence
 - 📫 How to reach me austin.nwachukwu@gmail.com
 
 <!---
